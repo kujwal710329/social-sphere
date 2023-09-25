@@ -2,7 +2,6 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://social-sphere-xcjh.onrender.com/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
@@ -14,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "dotenv": "^16.3.1",
     "formik": "^2.4.2",
+    "http-proxy-middleware": "^2.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
